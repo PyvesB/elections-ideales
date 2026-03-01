@@ -1,0 +1,7 @@
+.DS_Store
+.claude/
+2020-05-18-resultats-communes-de-1000-et-plus.txt
+2020-06-29-resultats-t2-communes-de-1000-hab-et-plus.txt
+__pycache__/
+html_pages/
+villes_ratings.json
